@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "firstName": "Lucas",
+      "lastName": "Mess",
+      "checkbox": "false",
+      "id": 1
+    },
+    {
+      "firstName": "zx",
+      "lastName": "zx",
+      "checkbox": "false",
+      "id": 4
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "checkbox": false,
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
