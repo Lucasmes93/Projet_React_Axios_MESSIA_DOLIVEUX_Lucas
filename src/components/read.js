@@ -38,6 +38,7 @@ export default function Read() {
     });
   };
 
+
   return (
     <div align='center'>
       <input
@@ -86,8 +87,7 @@ export default function Read() {
           })}
         </Table.Body>
       </Table>
-      <Pagination count={10} variant ="outlined" shape="rounded" color="secondary"
-      />
+      <Pagination count={10} variant ="outlined" shape="rounded" color="secondary"/>
     </div>
   );
 }
