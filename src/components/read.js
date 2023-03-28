@@ -6,7 +6,6 @@ import Pagination from '@material-ui/lab/Pagination';
 import HeartButton from './HeartButton';
 
 
-
 export default function Read() {
   const [APIData, setAPIData] = useState([]);
   const [searchTxt, setSearchTxt] = useState("");
