@@ -86,7 +86,8 @@ export default function Read() {
           })}
         </Table.Body>
       </Table>
-      <Pagination count={10} variant ="outlined" shape="rounded" color="secondary"/>
+      <Pagination count={10} variant ="outlined" shape="rounded" color="secondary"
+      />
     </div>
   );
 }
