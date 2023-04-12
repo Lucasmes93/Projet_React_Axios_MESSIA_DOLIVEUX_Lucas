@@ -46,9 +46,8 @@ export default function Read() {
         value={searchTxt}
         onChange={(e) => setSearchTxt(e.target.value)}
       />
-      <button type="submit" onSelect={getData(searchTxt)}>
-        Search
-      </button>
+      <buttonhide type="submit" onSelect={getData(searchTxt)}>
+      </buttonhide>
 
       <Table singleLine>
         <Table.Header >

@@ -1,16 +1,10 @@
 {
   "posts": [
     {
-      "firstName": "Lucas",
+      "firstName": "Luc",
       "lastName": "Messia",
       "checkbox": "false",
       "id": 1
-    },
-    {
-      "firstName": "iles",
-      "lastName": "iles",
-      "checkbox": false,
-      "id": 5
     }
   ],
   "comments": [],
